@@ -1,0 +1,2 @@
+JAVA_VERSION="11"
+MODULES="java.base java.net.http java.xml org.jsoup cnkidownloader"
