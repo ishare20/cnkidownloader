@@ -1,3 +1,4 @@
+无需配置Java运行环境
 知网下载器_Cnkidownloader，知网无需登录即可免费下载下载文献
 
 在软件目录运行cnki.sh
