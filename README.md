@@ -6,10 +6,10 @@
 #### 注意
 软件使用的是公共资源，所以每天限制**20**次下载。软件仅供学习交流，请勿用于商业用途。
 #### 下载地址
-文件大小：17.9M
+文件大小：17.9M  
 [百度网盘下载](https://pan.baidu.com/s/1kvEmE4p0CNPPWRfmygyBNg)  
 [码云下载](https://gitee.com/ishare20/cnkidownloader/releases)
 #### 开发技术
-知网下载器_Cnkidownloader基于Java 11开发的应用，采用jlink工具打包为原生应用程序，无需Java环境即可运行。支持多平台运行，目前只发布了Windows平台的应用程序
+知网下载器_Cnkidownloader基于Java 11开发的应用，采用jlink工具打包为原生应用程序，无需Java环境即可运行。支持多平台运行，目前发布了Windows和Linux平台的应用程序
 #### 博客地址
 [lemonTree博客](https://ishare20.gitee.io)
