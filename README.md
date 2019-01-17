@@ -2,7 +2,9 @@
 知网下载器_Cnkidownloader，知网无需登录即可免费下载文献
 #### 使用教程
 启动知网下载器_Cnkidownloder.exe。在[知网](http://www.cnki.net/)搜索你所需要的论文，进入详情页复制浏览器中的网址到知网下载器_Cnkidownloader中，按回车即可下载。下载成功的文件存放软件目录的download文件夹中
-
+![](https://ishare20.gitee.io/images/detail.png)
+![download.png](https://ishare20.gitee.io/images/download.png)
+![file.png](https://ishare20.gitee.io/images/file.png)
 #### 注意
 软件使用的是公共资源，所以每天限制**20**次下载。软件仅供学习交流，请勿用于商业用途。
 #### 下载地址
