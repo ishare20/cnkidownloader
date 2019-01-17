@@ -8,7 +8,8 @@
 #### 下载地址
 文件大小：17.9M  
 [百度网盘下载](https://pan.baidu.com/s/1kvEmE4p0CNPPWRfmygyBNg)  
-[码云下载](https://gitee.com/ishare20/cnkidownloader/releases)
+[码云下载](https://gitee.com/ishare20/cnkidownloader/releases)  
+[Github下载](https://github.com/ishare20/cnkidownloader)
 #### 开发技术
 知网下载器_Cnkidownloader基于Java 11开发的应用，采用jlink工具打包为原生应用程序，无需Java环境即可运行。支持多平台运行，目前发布了Windows和Linux平台的应用程序
 #### 博客地址
