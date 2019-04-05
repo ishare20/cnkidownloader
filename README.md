@@ -1,6 +1,7 @@
 ### 更新日志-2019/4/1 版本：V1.1
 修复部分文献不支持下载时闪退现象
-[百度网盘下载](https://pan.baidu.com/s/1kvEmE4p0CNPPWRfmygyBNg)
+[百度网盘下载](https://pan.baidu.com/s/1kvEmE4p0CNPPWRfmygyBNg)  
+说明：软件不支持32位系统
 
 #### 软件介绍
 知网下载器_Cnkidownloader，知网无需登录即可免费下载文献
